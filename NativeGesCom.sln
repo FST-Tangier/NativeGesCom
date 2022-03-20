@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeGesCom", "NativeGesCom\NativeGesCom.csproj", "{FB5FF809-5163-4916-8EBD-5EACD60B0E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metier", "Metier\Metier.csproj", "{257E3389-43DF-4B3A-847D-DB38CB171161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5FF809-5163-4916-8EBD-5EACD60B0E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5FF809-5163-4916-8EBD-5EACD60B0E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5FF809-5163-4916-8EBD-5EACD60B0E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5FF809-5163-4916-8EBD-5EACD60B0E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257E3389-43DF-4B3A-847D-DB38CB171161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257E3389-43DF-4B3A-847D-DB38CB171161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257E3389-43DF-4B3A-847D-DB38CB171161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257E3389-43DF-4B3A-847D-DB38CB171161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A74D72C4-01B9-4ED7-A531-A0ECEE014FDD}
+	EndGlobalSection
+EndGlobal
